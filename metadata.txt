@@ -1,0 +1,12 @@
+[general]
+name=ArcticDEMDownloader
+description=Быстрое скачивание тайлов ArcticDEM в QGIS
+version=0.9
+qgisMinimumVersion=3.20
+author=Aleksandr Voronin
+email=voorooniin@yandex.ru
+about=ArcticDEM downloader with bundled index loading, Range requests, resume, per-file pause, automatic archive extraction, all-file extraction, VRT creation from DEM rasters, and QGIS loading.
+category=Raster
+icon=icons/download.svg
+experimental=True
+deprecated=False
